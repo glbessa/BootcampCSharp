@@ -1,0 +1,16 @@
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/EstruturaDePrograma
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/EstruturaDePrograma.deps.json
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/EstruturaDePrograma.runtimeconfig.json
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/EstruturaDePrograma.runtimeconfig.dev.json
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/EstruturaDePrograma.dll
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/ref/EstruturaDePrograma.dll
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/bin/Debug/net5.0/EstruturaDePrograma.pdb
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.csprojAssemblyReference.cache
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.AssemblyInfoInputs.cache
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.AssemblyInfo.cs
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.csproj.CoreCompileInputs.cache
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.dll
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/ref/EstruturaDePrograma.dll
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.pdb
+/home/gabriel/dotnet-projects/csharp-projects/EstruturaDePrograma/obj/Debug/net5.0/EstruturaDePrograma.genruntimeconfig.cache
